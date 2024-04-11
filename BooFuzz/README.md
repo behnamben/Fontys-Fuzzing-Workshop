@@ -46,5 +46,5 @@ telnet 127.0.0.1 2200
 
 We should see the outputs from Telnet showing that it successfully connects to the server.
 
-## Step-0. Server compilation & setup
+## Step-2. Server compilation & setup
 Refer to BooFuzz github repository to use the Fuzzer [BooFuzz github repository](https://github.com/jtpereyda/boofuzz).
